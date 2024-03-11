@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\재귀함수">
+      <UniqueIdentifier>{b8404709-a395-4e64-bde7-d66ce56bda2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\조건문">
+      <UniqueIdentifier>{55271e9d-d0e7-4ed9-abfb-4b0eea626c55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{f1e071db-d733-4564-8c88-6c52a9dd2f69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\입출력 과 사칙연산">
+      <UniqueIdentifier>{816e5335-8dc7-4433-be41-e21f88381862}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1차 배열">
+      <UniqueIdentifier>{c1f74e53-dfb7-466c-ad08-6e55de8c46a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\심화 1">
+      <UniqueIdentifier>{82365dc2-da00-4529-9dc6-d4234299db0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\동적 계획">
+      <UniqueIdentifier>{1801be09-428a-4b94-9af3-8bfc5bbc7f6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\행렬">
+      <UniqueIdentifier>{c45bb1e8-42c8-4f5d-8a64-b888fd44f922}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\잡다한거">
+      <UniqueIdentifier>{f2440c10-f8d7-4de3-b564-cbc8a0e8c2f4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="팩토리얼2.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="조건문 2번.cpp">
+      <Filter>소스 파일\조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치수열.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀의귀재.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="칸토어집합.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기2.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="A-B.cpp">
+      <Filter>소스 파일\입출력 과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="사칙연산.cpp">
+      <Filter>소스 파일\입출력 과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="나머지.cpp">
+      <Filter>소스 파일\입출력 과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="개.cpp">
+      <Filter>소스 파일\입출력 과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="꼬마정민.cpp">
+      <Filter>소스 파일\입출력 과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="곱하기.cpp">
+      <Filter>소스 파일\입출력 과 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="과제 안내신분.cpp">
+      <Filter>소스 파일\1차 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="개수새기.cpp">
+      <Filter>소스 파일\1차 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="최소, 최대.cpp">
+      <Filter>소스 파일\1차 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="최대값.cpp">
+      <Filter>소스 파일\1차 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="평균.cpp">
+      <Filter>소스 파일\1차 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="별찍기7.cpp">
+      <Filter>소스 파일\심화 1</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 나머지.cpp">
+      <Filter>소스 파일\1차 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="킹,퀸,룩,비숍,나이트,폰.cpp">
+      <Filter>소스 파일\심화 1</Filter>
+    </ClCompile>
+    <ClCompile Include="팰린드롬인지 확인하기.cpp">
+      <Filter>소스 파일\심화 1</Filter>
+    </ClCompile>
+    <ClCompile Include="너의 평점은.cpp">
+      <Filter>소스 파일\심화 1</Filter>
+    </ClCompile>
+    <ClCompile Include="알고리즘 수업-피보나치 수열1.cpp">
+      <Filter>소스 파일\동적 계획</Filter>
+    </ClCompile>
+    <ClCompile Include="신나는 함수 실행.cpp">
+      <Filter>소스 파일\동적 계획</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬곱.cpp">
+      <Filter>소스 파일\행렬</Filter>
+    </ClCompile>
+    <ClCompile Include="터렛.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="보물.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="어린왕자 1004.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="유기농 배추.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="홍익대학교 16394.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="컵라면측정하기 16479.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="성장의 비약 선택권 26645.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="과 조사하기 28289.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="백준 조건문 1번.cpp">
+      <Filter>소스 파일\조건문</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
