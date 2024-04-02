@@ -198,6 +198,15 @@
     <ClCompile Include="스택 10828.cpp">
       <Filter>소스 파일\잡다한거</Filter>
     </ClCompile>
+    <ClCompile Include="설탕배달 2839.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="큐 10845.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="해싱 15829.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="백준 조건문 1번.cpp">
