@@ -216,6 +216,9 @@
     <ClCompile Include="듣보잡 1764.cpp">
       <Filter>소스 파일\잡다한거</Filter>
     </ClCompile>
+    <ClCompile Include="패션왕 신해빈 9375.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="백준 조건문 1번.cpp">
