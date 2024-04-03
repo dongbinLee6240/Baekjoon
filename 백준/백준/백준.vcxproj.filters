@@ -205,7 +205,16 @@
       <Filter>소스 파일\잡다한거</Filter>
     </ClCompile>
     <ClCompile Include="해싱 15829.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="나는야 포켓몬 마스터 이다솜 1620.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="생일 5635.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="듣보잡 1764.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
