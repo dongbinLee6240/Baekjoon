@@ -238,6 +238,27 @@
       <Filter>소스 파일\잡다한거</Filter>
     </ClCompile>
     <ClCompile Include="1로 만들기 1463.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 반복.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="수 찾기.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="A + B - 5 10952.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="아스키 코드 11654.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="문자와 문자열 27866.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="이항 계수 1 11050.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기2 2751.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
