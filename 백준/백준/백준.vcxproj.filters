@@ -261,40 +261,43 @@
     <ClCompile Include="수 정렬하기2 2751.cpp">
       <Filter>소스 파일\잡다한거</Filter>
     </ClCompile>
-    <ClCompile Include="1260 DFS와 BFS.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1541 잃어버린 괄호 찾기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1927 최소 힙.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2579 계단 오르기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2606 바이러스.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2920 음계.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9095 1 2 3 더하기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9461 파도반 수열.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11659 구간 합 구하기4.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11726 2xn 타일링.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="최대 힙.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
     </ClCompile>
     <ClCompile Include="15680 연세대학교.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\잡다한거</Filter>
     </ClCompile>
-    <ClCompile Include="최대 힙.cpp">
+    <ClCompile Include="11726 2xn 타일링.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="11659 구간 합 구하기4.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="9095 1 2 3 더하기.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="9461 파도반 수열.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="2920 음계.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="2606 바이러스.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="2579 계단 오르기.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="1927 최소 힙.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="1541 잃어버린 괄호 찾기.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="1260 DFS와 BFS.cpp">
+      <Filter>소스 파일\잡다한거</Filter>
+    </ClCompile>
+    <ClCompile Include="21736 헌내기는 친구가 필요해.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
