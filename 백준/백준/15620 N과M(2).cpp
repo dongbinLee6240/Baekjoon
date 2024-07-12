@@ -17,7 +17,7 @@ void dfs(int n, int cnt)
 	{
 		for (int i = 0; i < M; i++)
 		{
-			cout << arr[i];
+			cout << arr[i] << " ";
 		}
 		cout << '\n';
 	}
