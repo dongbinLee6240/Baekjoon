@@ -21,15 +21,20 @@ void dfs(int n, int cnt)
 		}
 		cout << '\n';
 	}
+
 	else
 	{
+		//dfs(1,0) -> dfs(2,1) -> ex) 4 2
+		//dfs(2,1) -> dfs(2,2)
+		//dfs(3,1) -> dfs(3,2)
+		
 		for (int i = n; i <= N; i++)
 		{
 			if (visited[i] == false)
 			{
 				visited[i] = true;
 				arr[cnt] = i;
-				dfs(i, cnt + 1);
+				dfs(i+1, cnt + 1);
 				visited[i] = false;
 			}
 		}

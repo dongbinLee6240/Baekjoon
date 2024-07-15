@@ -40,6 +40,12 @@
     <Filter Include="소스 파일\잡다한거">
       <UniqueIdentifier>{f2440c10-f8d7-4de3-b564-cbc8a0e8c2f4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\그리디">
+      <UniqueIdentifier>{076555b9-b585-4fcd-9355-87abac0ced47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\해시와 맵">
+      <UniqueIdentifier>{44160c11-8bf7-4173-ad61-195d4bce991e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="팩토리얼2.cpp">
@@ -304,6 +310,18 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="15652 N과M(4).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15813 너의 이름은 몇점.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="31066 비 오는 날.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="26596 황금 칵테일.cpp">
+      <Filter>소스 파일\해시와 맵</Filter>
+    </ClCompile>
+    <ClCompile Include="2475 검증 수 .cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
