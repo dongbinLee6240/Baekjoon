@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\",
+  "WorkspaceRootPath": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\2475 \uAC80\uC99D \uC218 .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\2475 \uAC80\uC99D \uC218 .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\26596 \uD669\uAE08 \uCE75\uD14C\uC77C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\26596 \uD669\uAE08 \uCE75\uD14C\uC77C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uC774\uC21C \uC815\uB82C 10814.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uB098\uC774\uC21C \uC815\uB82C 10814.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB4E3\uBCF4\uC7A1 1764.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uB4E3\uBCF4\uC7A1 1764.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\31066 \uBE44 \uC624\uB294 \uB0A0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\31066 \uBE44 \uC624\uB294 \uB0A0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\31066 \uBE44 \uC624\uB294 \uB0A0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15620 N\uACFCM(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\2475 \uAC80\uC99D \uC218 .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\2475 \uAC80\uC99D \uC218 .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\26596 \uD669\uAE08 \uCE75\uD14C\uC77C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\26596 \uD669\uAE08 \uCE75\uD14C\uC77C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uC774\uC21C \uC815\uB82C 10814.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uB098\uC774\uC21C \uC815\uB82C 10814.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB4E3\uBCF4\uC7A1 1764.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uB4E3\uBCF4\uC7A1 1764.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15620 N\uACFCM(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\15620 N\uACFCM(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15813 \uB108\uC758 \uC774\uB984\uC740 \uBA87\uC810.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15813 \uB108\uC758 \uC774\uB984\uC740 \uBA87\uC810.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\15813 \uB108\uC758 \uC774\uB984\uC740 \uBA87\uC810.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC544\uC2A4\uD0A4 \uCF54\uB4DC 11654.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC544\uC2A4\uD0A4 \uCF54\uB4DC 11654.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uC544\uC2A4\uD0A4 \uCF54\uB4DC 11654.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15652 N\uACFCM(4).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15652 N\uACFCM(4).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\15652 N\uACFCM(4).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1260 DFS\uC640 BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1260 DFS\uC640 BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\1260 DFS\uC640 BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1541 \uC783\uC5B4\uBC84\uB9B0 \uAD04\uD638 \uCC3E\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1541 \uC783\uC5B4\uBC84\uB9B0 \uAD04\uD638 \uCC3E\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\1541 \uC783\uC5B4\uBC84\uB9B0 \uAD04\uD638 \uCC3E\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uC815\uB82C\uD558\uAE302 2751.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uC815\uB82C\uD558\uAE302 2751.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uC218 \uC815\uB82C\uD558\uAE302 2751.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC774\uD56D \uACC4\uC218 1 11050.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC774\uD56D \uACC4\uC218 1 11050.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uC774\uD56D \uACC4\uC218 1 11050.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC640 \uBB38\uC790\uC5F4 27866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC640 \uBB38\uC790\uC5F4 27866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uBB38\uC790\uC640 \uBB38\uC790\uC5F4 27866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\A \u002B B - 5 10952.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\A \u002B B - 5 10952.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\A \u002B B - 5 10952.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uCC3E\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uCC3E\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uC218 \uCC3E\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uD574\uC2F1 15829.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uD574\uC2F1 15829.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uD574\uC2F1 15829.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C 1620.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C 1620.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A18A54D4-7781-4E1A-A81A-5DAFEB36E513}|\uBC31\uC900\\\uBC31\uC900.vcxproj|solutionrelative:\uBC31\uC900\\\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C 1620.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -86,28 +86,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "2475 \uAC80\uC99D \uC218 .cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\2475 \uAC80\uC99D \uC218 .cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\2475 \uAC80\uC99D \uC218 .cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\2475 \uAC80\uC99D \uC218 .cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\2475 \uAC80\uC99D \uC218 .cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\2475 \uAC80\uC99D \uC218 .cpp",
               "RelativeToolTip": "\uBC31\uC900\\2475 \uAC80\uC99D \uC218 .cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAQwA4AAAARAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-15T12:20:15.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "\uB098\uC774\uC21C \uC815\uB82C 10814.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uC774\uC21C \uC815\uB82C 10814.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uC774\uC21C \uC815\uB82C 10814.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\\uB098\uC774\uC21C \uC815\uB82C 10814.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uC774\uC21C \uC815\uB82C 10814.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uC774\uC21C \uC815\uB82C 10814.cpp",
               "RelativeToolTip": "\uBC31\uC900\\\uB098\uC774\uC21C \uC815\uB82C 10814.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -115,11 +115,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "\uB4E3\uBCF4\uC7A1 1764.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB4E3\uBCF4\uC7A1 1764.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB4E3\uBCF4\uC7A1 1764.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\\uB4E3\uBCF4\uC7A1 1764.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB4E3\uBCF4\uC7A1 1764.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB4E3\uBCF4\uC7A1 1764.cpp",
               "RelativeToolTip": "\uBC31\uC900\\\uB4E3\uBCF4\uC7A1 1764.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -127,36 +127,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "26596 \uD669\uAE08 \uCE75\uD14C\uC77C.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\26596 \uD669\uAE08 \uCE75\uD14C\uC77C.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\26596 \uD669\uAE08 \uCE75\uD14C\uC77C.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\26596 \uD669\uAE08 \uCE75\uD14C\uC77C.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\26596 \uD669\uAE08 \uCE75\uD14C\uC77C.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\26596 \uD669\uAE08 \uCE75\uD14C\uC77C.cpp",
               "RelativeToolTip": "\uBC31\uC900\\26596 \uD669\uAE08 \uCE75\uD14C\uC77C.cpp",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-13T14:25:31.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T14:25:31.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "31066 \uBE44 \uC624\uB294 \uB0A0.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\31066 \uBE44 \uC624\uB294 \uB0A0.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\31066 \uBE44 \uC624\uB294 \uB0A0.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\31066 \uBE44 \uC624\uB294 \uB0A0.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\31066 \uBE44 \uC624\uB294 \uB0A0.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\31066 \uBE44 \uC624\uB294 \uB0A0.cpp",
               "RelativeToolTip": "\uBC31\uC900\\31066 \uBE44 \uC624\uB294 \uB0A0.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-13T12:39:38.368Z"
+              "WhenOpened": "2024-07-13T12:39:38.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "\uC544\uC2A4\uD0A4 \uCF54\uB4DC 11654.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC544\uC2A4\uD0A4 \uCF54\uB4DC 11654.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC544\uC2A4\uD0A4 \uCF54\uB4DC 11654.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\\uC544\uC2A4\uD0A4 \uCF54\uB4DC 11654.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC544\uC2A4\uD0A4 \uCF54\uB4DC 11654.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC544\uC2A4\uD0A4 \uCF54\uB4DC 11654.cpp",
               "RelativeToolTip": "\uBC31\uC900\\\uC544\uC2A4\uD0A4 \uCF54\uB4DC 11654.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -166,9 +166,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "15813 \uB108\uC758 \uC774\uB984\uC740 \uBA87\uC810.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15813 \uB108\uC758 \uC774\uB984\uC740 \uBA87\uC810.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15813 \uB108\uC758 \uC774\uB984\uC740 \uBA87\uC810.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\15813 \uB108\uC758 \uC774\uB984\uC740 \uBA87\uC810.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15813 \uB108\uC758 \uC774\uB984\uC740 \uBA87\uC810.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15813 \uB108\uC758 \uC774\uB984\uC740 \uBA87\uC810.cpp",
               "RelativeToolTip": "\uBC31\uC900\\15813 \uB108\uC758 \uC774\uB984\uC740 \uBA87\uC810.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -178,9 +178,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "15652 N\uACFCM(4).cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15652 N\uACFCM(4).cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15652 N\uACFCM(4).cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\15652 N\uACFCM(4).cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15652 N\uACFCM(4).cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15652 N\uACFCM(4).cpp",
               "RelativeToolTip": "\uBC31\uC900\\15652 N\uACFCM(4).cpp",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -190,9 +190,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "15620 N\uACFCM(2).cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15620 N\uACFCM(2).cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15620 N\uACFCM(2).cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\15620 N\uACFCM(2).cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15620 N\uACFCM(2).cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\15620 N\uACFCM(2).cpp",
               "RelativeToolTip": "\uBC31\uC900\\15620 N\uACFCM(2).cpp",
               "ViewState": "AQIAABgAAAAAAAAAAAAcwB0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -202,9 +202,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "1260 DFS\uC640 BFS.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1260 DFS\uC640 BFS.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1260 DFS\uC640 BFS.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\1260 DFS\uC640 BFS.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1260 DFS\uC640 BFS.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1260 DFS\uC640 BFS.cpp",
               "RelativeToolTip": "\uBC31\uC900\\1260 DFS\uC640 BFS.cpp",
               "ViewState": "AQIAACcAAAAAAAAAAAAAADEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -214,9 +214,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "1541 \uC783\uC5B4\uBC84\uB9B0 \uAD04\uD638 \uCC3E\uAE30.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1541 \uC783\uC5B4\uBC84\uB9B0 \uAD04\uD638 \uCC3E\uAE30.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1541 \uC783\uC5B4\uBC84\uB9B0 \uAD04\uD638 \uCC3E\uAE30.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\1541 \uC783\uC5B4\uBC84\uB9B0 \uAD04\uD638 \uCC3E\uAE30.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1541 \uC783\uC5B4\uBC84\uB9B0 \uAD04\uD638 \uCC3E\uAE30.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\1541 \uC783\uC5B4\uBC84\uB9B0 \uAD04\uD638 \uCC3E\uAE30.cpp",
               "RelativeToolTip": "\uBC31\uC900\\1541 \uC783\uC5B4\uBC84\uB9B0 \uAD04\uD638 \uCC3E\uAE30.cpp",
               "ViewState": "AQIAABYAAAAAAAAAAAAqwB4AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -226,9 +226,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "\uC218 \uC815\uB82C\uD558\uAE302 2751.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uC815\uB82C\uD558\uAE302 2751.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uC815\uB82C\uD558\uAE302 2751.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\\uC218 \uC815\uB82C\uD558\uAE302 2751.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uC815\uB82C\uD558\uAE302 2751.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uC815\uB82C\uD558\uAE302 2751.cpp",
               "RelativeToolTip": "\uBC31\uC900\\\uC218 \uC815\uB82C\uD558\uAE302 2751.cpp",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAwAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -238,9 +238,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "\uC774\uD56D \uACC4\uC218 1 11050.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC774\uD56D \uACC4\uC218 1 11050.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC774\uD56D \uACC4\uC218 1 11050.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\\uC774\uD56D \uACC4\uC218 1 11050.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC774\uD56D \uACC4\uC218 1 11050.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC774\uD56D \uACC4\uC218 1 11050.cpp",
               "RelativeToolTip": "\uBC31\uC900\\\uC774\uD56D \uACC4\uC218 1 11050.cpp",
               "ViewState": "AQIAABIAAAAAAAAAAAAAwB0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -250,9 +250,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "\uBB38\uC790\uC640 \uBB38\uC790\uC5F4 27866.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC640 \uBB38\uC790\uC5F4 27866.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC640 \uBB38\uC790\uC5F4 27866.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\\uBB38\uC790\uC640 \uBB38\uC790\uC5F4 27866.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC640 \uBB38\uC790\uC5F4 27866.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC640 \uBB38\uC790\uC5F4 27866.cpp",
               "RelativeToolTip": "\uBC31\uC900\\\uBB38\uC790\uC640 \uBB38\uC790\uC5F4 27866.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -262,9 +262,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "A \u002B B - 5 10952.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\A \u002B B - 5 10952.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\A \u002B B - 5 10952.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\A \u002B B - 5 10952.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\A \u002B B - 5 10952.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\A \u002B B - 5 10952.cpp",
               "RelativeToolTip": "\uBC31\uC900\\A \u002B B - 5 10952.cpp",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAwA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -274,9 +274,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "\uC218 \uCC3E\uAE30.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uCC3E\uAE30.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uCC3E\uAE30.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\\uC218 \uCC3E\uAE30.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uCC3E\uAE30.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uC218 \uCC3E\uAE30.cpp",
               "RelativeToolTip": "\uBC31\uC900\\\uC218 \uCC3E\uAE30.cpp",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAwCEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -286,9 +286,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp",
               "RelativeToolTip": "\uBC31\uC900\\\uBB38\uC790\uC5F4 \uBC18\uBCF5.cpp",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -298,9 +298,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C 1620.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C 1620.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C 1620.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C 1620.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C 1620.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C 1620.cpp",
               "RelativeToolTip": "\uBC31\uC900\\\uB098\uB294\uC57C \uD3EC\uCF13\uBAAC \uB9C8\uC2A4\uD130 \uC774\uB2E4\uC19C 1620.cpp",
               "ViewState": "AQIAACEAAAAAAAAAAAAAABoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -310,9 +310,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "\uD574\uC2F1 15829.cpp",
-              "DocumentMoniker": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uD574\uC2F1 15829.cpp",
+              "DocumentMoniker": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uD574\uC2F1 15829.cpp",
               "RelativeDocumentMoniker": "\uBC31\uC900\\\uD574\uC2F1 15829.cpp",
-              "ToolTip": "C:\\\uCF54\uB4DC\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uD574\uC2F1 15829.cpp",
+              "ToolTip": "C:\\Users\\lee\\Documents\\GitHub\\Baekjoon\\\uBC31\uC900\\\uBC31\uC900\\\uD574\uC2F1 15829.cpp",
               "RelativeToolTip": "\uBC31\uC900\\\uD574\uC2F1 15829.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
