@@ -39,7 +39,7 @@ void bfs(int start, vector<vector<int>>& graph, vector<bool>& visited)
 
 void dfs(int x, vector<vector<int>>& graph, vector<bool>& visited)
 {
-	visited[x] = true;
+	visited[x] = true; //Ω√¿€¡°
 	cout << x << " ";
 
 	for (int i = 0; i < graph[x].size(); i++)
