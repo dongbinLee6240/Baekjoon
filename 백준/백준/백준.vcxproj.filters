@@ -381,6 +381,12 @@
     <ClCompile Include="7576 토마토.cpp">
       <Filter>소스 파일\그래프 탐색</Filter>
     </ClCompile>
+    <ClCompile Include="7569 토마토.cpp">
+      <Filter>소스 파일\그래프 탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="14940 쉬운최단거리.cpp">
+      <Filter>소스 파일\그래프 탐색</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="백준 조건문 1번.cpp">
