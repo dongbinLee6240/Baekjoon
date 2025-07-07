@@ -1,6 +1,2 @@
-﻿  1012 유기농 배추.cpp
-C:\Users\lee\Documents\GitHub\Baekjoon\백준\백준\1012 유기농 배추.cpp(17,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\lee\Documents\GitHub\Baekjoon\백준\백준\1012 유기농 배추.cpp(18,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\lee\Documents\GitHub\Baekjoon\백준\백준\1012 유기농 배추.cpp(38,21): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
-C:\Users\lee\Documents\GitHub\Baekjoon\백준\백준\1012 유기농 배추.cpp(49,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+﻿  1697 숨박꼭질.cpp
   백준.vcxproj -> C:\Users\lee\Documents\GitHub\Baekjoon\백준\x64\Debug\백준.exe
