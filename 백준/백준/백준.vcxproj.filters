@@ -402,6 +402,9 @@
     <ClCompile Include="1697 숨박꼭질.cpp">
       <Filter>소스 파일\그래프 탐색</Filter>
     </ClCompile>
+    <ClCompile Include="11724 연결 요소의 개수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="백준 조건문 1번.cpp">
