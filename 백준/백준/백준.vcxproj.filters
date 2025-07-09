@@ -403,7 +403,10 @@
       <Filter>소스 파일\그래프 탐색</Filter>
     </ClCompile>
     <ClCompile Include="11724 연결 요소의 개수.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\그래프 탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="2805 나무자르기.cpp">
+      <Filter>소스 파일\그래프 탐색</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
