@@ -414,6 +414,15 @@
     <ClCompile Include="1149RGB거리.cpp">
       <Filter>소스 파일\다이나믹프로그래밍</Filter>
     </ClCompile>
+    <ClCompile Include="일곱 난쟁이 2309.cpp">
+      <Filter>소스 파일\브루토포스</Filter>
+    </ClCompile>
+    <ClCompile Include="알파벳 개수.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="2979 트럭주차.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="백준 조건문 1번.cpp">

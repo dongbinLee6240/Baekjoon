@@ -1,13 +1,2 @@
-﻿  1149RGB거리.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(86,14): error C2064: 항은 2개의 인수를 받아들이는 함수로 계산되지 않습니다.
-  (소스 파일 '1149RGB거리.cpp'을(를) 컴파일하는 중)
-      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(86,14):
-      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
-          C:\Users\lee\Documents\GitHub\Baekjoon\백준\백준\1149RGB거리.cpp(47,10):
-          컴파일되는 함수 템플릿 인스턴스화 'const _Ty &std::min<_Ty,_Ty>(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)'에 대한 참조를 확인하세요.
-          with
-          [
-              _Ty=int,
-              _Pr=int
-          ]
-  
+﻿  알파벳 개수.cpp
+  백준.vcxproj -> C:\Users\lee\Documents\GitHub\Baekjoon\백준\x64\Debug\백준.exe
