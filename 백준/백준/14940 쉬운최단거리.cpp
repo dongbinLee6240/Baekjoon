@@ -22,7 +22,8 @@ void bfs(vector<vector<int>>& graph, int ey, int ex)
 
 	while (!q.empty())
 	{
-		auto [y, x] = q.front(); q.pop();
+		auto [y, x] = q.front();
+		q.pop();
 
 		for (int i = 0; i < 4; i++)
 		{
