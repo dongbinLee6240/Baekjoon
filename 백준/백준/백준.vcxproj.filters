@@ -64,6 +64,9 @@
     <Filter Include="소스 파일\자료구조\해시와 맵">
       <UniqueIdentifier>{44160c11-8bf7-4173-ad61-195d4bce991e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\반복문">
+      <UniqueIdentifier>{0701b356-079d-4b87-9fa3-8fd94affde2e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="팩토리얼2.cpp">
@@ -418,6 +421,33 @@
       <Filter>소스 파일\브루토포스</Filter>
     </ClCompile>
     <ClCompile Include="알파벳 개수.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="합.cpp">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="코딩은 체육과목 입니다.cpp">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="빠른 A+B.cpp">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B - 7.cpp">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="A+B -8.cpp">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="별찍기 2.cpp">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="단어길이재기.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="알파벳.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
   </ItemGroup>
