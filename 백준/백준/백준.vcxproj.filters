@@ -450,6 +450,9 @@
     <ClCompile Include="알파벳.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
+    <ClCompile Include="단어의 개수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="백준 조건문 1번.cpp">
